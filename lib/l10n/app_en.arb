@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "home": "Home",
+  "settings": "Settings",
+  "about": "About",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System",
+  "useCustomThemeColorTitle": "Use custom accent color",
+  "useCustomThemeColorDescription": "Use a custom accent color for the app theme.",
+  "selectColor": "Select color",
+  "selectColorShade": "Select color shade",
+  "selectColorAndItsShades": "Select a color and its shades",
+  "version": "Version",
+  "contributors": "Contributors",
+  "license": "License",
+  "dependencies": "Dependencies",
+  "acknowledgementsTitle": "Acknowledgements",
+  "copyrightNotice": "Copyright by Dee HY - all rights reserved.",
+  "welcomeTitle": "Welcome to flstash",
+  "welcomeMessage": "A stashapp client built with Flutter."
+}
